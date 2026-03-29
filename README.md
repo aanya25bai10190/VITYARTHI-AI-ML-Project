@@ -46,7 +46,7 @@ Dataset used in this project:
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/cardio-predictor.git
+git clone https://github.com/aanya25bai10190/VITYARTHI-AI-ML-Project.git
 ```
 ### 2️⃣ Navigate to the project folder  
 ```bash
