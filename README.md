@@ -1,4 +1,4 @@
-# ❤️ Cardiovascular Disease Predictor  
+# ❤️ Cardiovascular Disease Predictor 
 
 ## 📌 Overview  
 This project predicts the likelihood of cardiovascular disease using Machine Learning. Users can input basic health details, and the model will classify whether the risk is **High** or **Low**.  
